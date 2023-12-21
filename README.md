@@ -2,21 +2,27 @@ Beginner
 1. Write a program which finds the factorial of a number entered by the user. (check for all conditions) (Beginner).
 2. Develop a program to convert currency X to currency Y and visa versa (beginner).
 3. Write a program that print out the following, user will input the top number:
+```
 *****
 ****
 ***
 **
 *
+```
 4. Write a program that print out the following, user will input the bottom number: *
+```
 **
 ** *
 ****
 ******
+```
 5. Write a program that pring out the following triangle, the user will input the bottom number:
+```
 *
 ***
 *****
 *******
+```
 6. Develop a program that uses a randomly generated number to select 1 of 3(or more)
 functions to show the user. (Beginner)
 7. Guessing game. Write a c++ game that asks the user to guess a number between 1 and a 100. If you guessed correctly, it will say you win. If your too high or too low it will also let you know. (Beginner)
