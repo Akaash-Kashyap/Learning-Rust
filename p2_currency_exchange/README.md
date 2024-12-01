@@ -9,6 +9,9 @@ Project statement: Develop a program to convert currency X to currency Y and vis
 - Follows safe API storage requirements
 
 ## Usage
+```
+cargo run # starts the program
+```
 1. First select starting currency
 
   <div style="text-align: center;">
